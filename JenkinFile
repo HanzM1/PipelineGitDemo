@@ -36,3 +36,6 @@ pipeline {
 //This is pretty cool
 // 11:37 - ITS ALIVE!!!! jenkins compiled the first commit - this was from github
 // 11:40 - Once more but now will do it here in VS, push the change and watch. 
+// last call here -> confirmed setup of Github, test code on vs, github desktop and jenkins
+// The commit gets called upon and and jenkins starts to build automatically. -> This call will be the last to know everything is running smooth
+//
