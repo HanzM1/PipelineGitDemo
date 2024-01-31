@@ -39,4 +39,4 @@ pipeline {
 // last call here -> confirmed setup of Github, test code on vs, github desktop and jenkins
 // The commit gets called upon and and jenkins starts to build automatically. -> This call will be the last to know everything is running smooth
 // 1/31 - 1:07PM comment has arrived, jenkins build, this test & work is complete. 
-// testing
+// testing - seems to be fine
